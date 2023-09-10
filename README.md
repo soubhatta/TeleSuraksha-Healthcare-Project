@@ -24,7 +24,7 @@ TeleSuraksha addresses the critical issue of healthcare accessibility by providi
 <p align="center">
   <img width="800" height="700" src="https://raw.githubusercontent.com/soubhatta/TeleSuraksha-Healthcare-Project/main/assets/85474422/e2710825-1c76-4d05-b0ca-fad160e6864d.png">
 </p>
-![Green Modern Organic Health Food Logo](https://github.com/soubhatta/TeleSuraksha-Healthcare-Project/assets/85474422/92634fc0-ede3-4f07-8e92-80a8b7d6f68b)
+
 
 
 # TECH STACKS USED
