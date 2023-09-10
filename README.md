@@ -15,10 +15,11 @@ Anindita Mitra(GitHub Username - AninditaMitra1201  )
 # THEME - Healthcare
 Revolutionize healthcare through data-driven diagnostics, telemedicine, and advancements in patient care.
 
-# PROBLEM STATEMENT
-
 # FRONT END WEBSITE PROJECT - TeleSuraksha
 TeleSuraksha is a groundbreaking telemedicine project aimed at revolutionizing healthcare access and delivery. Developed with a mission to ensure healthcare is both convenient and accessible, TeleSuraksha leverages cutting-edge technology to bridge the gap between patients and healthcare providers.
+
+# OBJECTIVE OF OUR PROJECT
+TeleSuraksha addresses the critical issue of healthcare accessibility by providing a user-friendly telemedicine platform that connects patients with qualified healthcare professionals, regardless of geographical constraints. In a world where physical distance and limited healthcare resources can pose substantial challenges, TeleSuraksha leverages technology to bridge these gaps, offering timely medical consultations, advice, and treatment options to individuals in remote or underserved areas. This innovative platform not only enhances the reach of healthcare services but also promotes early intervention, reduces unnecessary travel, and fosters a more equitable healthcare system, ultimately improving overall healthcare outcomes.
 
 <p align="center">
   <img width="800" height="700" src="https://github.com/soubhatta/TeleSuraksha-Healthcare-Project/assets/122465630/844f3a53-668d-41db-a968-762700ed2744">
