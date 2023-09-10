@@ -22,9 +22,8 @@ TeleSuraksha is a groundbreaking telemedicine project aimed at revolutionizing h
 TeleSuraksha addresses the critical issue of healthcare accessibility by providing a user-friendly telemedicine platform that connects patients with qualified healthcare professionals, regardless of geographical constraints. In a world where physical distance and limited healthcare resources can pose substantial challenges, TeleSuraksha leverages technology to bridge these gaps, offering timely medical consultations, advice, and treatment options to individuals in remote or underserved areas. This innovative platform not only enhances the reach of healthcare services but also promotes early intervention, reduces unnecessary travel, and fosters a more equitable healthcare system, ultimately improving overall healthcare outcomes.
 
 <p align="center">
-  <img width="800" height="700" src="https://raw.githubusercontent.com/soubhatta/TeleSuraksha-Healthcare-Project/main/assets/85474422/e2710825-1c76-4d05-b0ca-fad160e6864d.png">
+  <img width="800" height="700" src="https://github.com/soubhatta/TeleSuraksha-Healthcare-Project/assets/85474422/36600a29-0fde-43f2-b2e8-63b9e9900396)">
 </p>
-
 
 
 # TECH STACKS USED
