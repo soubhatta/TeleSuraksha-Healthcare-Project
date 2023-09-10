@@ -8,7 +8,7 @@ Soumalya Bhattacharyya(Github Username - soubhatta)
 ## OTHER TEAMMATES 
 Arijit Nandi(GitHub Username - ArijitNandi123 )
 
-Sampurna Ghosh(GitHub Username -  )
+Sampurna Ghosh(GitHub Username - Sampurna710519 )
 
 Anindita Mitra(GitHub Username -  )
 
