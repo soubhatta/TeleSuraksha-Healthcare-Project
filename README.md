@@ -10,7 +10,7 @@ Arijit Nandi(GitHub Username - ArijitNandi123 )
 
 Sampurna Ghosh(GitHub Username -  )
 
-Anindita Mitra(GitHub Username -  )
+Anindita Mitra(GitHub Username - AninditaMitra1201  )
 
 # THEME - Healthcare
 Revolutionize healthcare through data-driven diagnostics, telemedicine, and advancements in patient care.
