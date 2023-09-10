@@ -21,7 +21,7 @@ Revolutionize healthcare through data-driven diagnostics, telemedicine, and adva
 TeleSuraksha is a groundbreaking telemedicine project aimed at revolutionizing healthcare access and delivery. Developed with a mission to ensure healthcare is both convenient and accessible, TeleSuraksha leverages cutting-edge technology to bridge the gap between patients and healthcare providers.
 
 <p align="center">
-  <img width="800" height="600" src="https://github.com/soubhatta/TeleSuraksha-Healthcare-Project/assets/122465630/844f3a53-668d-41db-a968-762700ed2744">
+  <img width="800" height="700" src="https://github.com/soubhatta/TeleSuraksha-Healthcare-Project/assets/122465630/844f3a53-668d-41db-a968-762700ed2744">
 </p>
 
 
