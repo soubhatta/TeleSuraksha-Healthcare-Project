@@ -7,7 +7,9 @@ Soumalya Bhattacharyya(Github Username - soubhatta)
 
 ## OTHER TEAMMATES 
 Arijit Nandi(GitHub Username - ArijitNandi123 )
+
 Sampurna Ghosh(GitHub Username -  )
+
 Anindita Mitra(GitHub Username -  )
 
 # THEME - Healthcare
